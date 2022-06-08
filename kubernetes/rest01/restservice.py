@@ -34,4 +34,4 @@ def valideer(naam,password):
 #Indien user niet bestaat
   return "User bestaat niet"
 #app.run(debug=True) dan alleen  via 127.0.0.1 te benaderen
-app.run(host='10.3.28.252', port=5001) #luister naar al zijn IP-adressen
+app.run(host='0.0.0.0', port=5001) #luister naar al zijn IP-adressen
