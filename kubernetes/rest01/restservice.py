@@ -36,6 +36,12 @@ def valideer(naam,password):
       return "goed"
     else:
       return "fout"
+    
+   if naam=="ismail":
+    if password=="welkom01":
+      return "goed"
+    else:
+      return "fout"
 
 #Indien user niet bestaat
   return "User bestaat niet"
