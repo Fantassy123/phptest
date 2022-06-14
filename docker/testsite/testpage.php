@@ -32,7 +32,7 @@
 </head>
 
 <body>
-   <h1>Docker Testapplicatie voor DEVOPS, VERSIE-01</h1>
+   <h1>Docker Testapplicatie voor DevOps, VERSIE-01 test!</h1>
    <table style="width:100%"">
      <tr>
        <?php
