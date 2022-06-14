@@ -37,7 +37,7 @@ def valideer(naam,password):
     else:
       return "fout"
     
-  if naam=="denny":
+  if naam=="tom":
     if password=="welkom01":
       return "goed"
     else:
